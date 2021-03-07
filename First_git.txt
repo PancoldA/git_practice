@@ -2,3 +2,4 @@ Git Practice
 기본적인 워크플로우를 배웁니다.
 -git add
 -git commit
+-git rm
